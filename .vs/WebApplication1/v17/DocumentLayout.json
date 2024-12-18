@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\controllers\\vacanciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\vacanciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\migrations\\20241216101222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241216101222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{284D2E1B-9EA0-444C-B83B-D4193D949A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VacanciesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\VacanciesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VacanciesController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\VacanciesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\VacanciesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:23:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T08:16:15.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:04:36.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:05:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Response.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:04:39.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Vacancy.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Vacancy.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Vacancy.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Vacancy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:03:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T07:37:28.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T08:19:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241216101222_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20241216101222_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241216101222_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20241216101222_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241216101222_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:12:23.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
