@@ -1,4 +1,3 @@
-C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
 C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
 C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
@@ -132,3 +131,12 @@ C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashb
 C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\PC\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

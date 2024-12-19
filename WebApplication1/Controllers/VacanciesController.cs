@@ -2,7 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using System.Linq;
+using Microsoft.AspNetCore.Authorization;
 
+[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class VacanciesController : ControllerBase
@@ -23,6 +25,7 @@ public class VacanciesController : ControllerBase
         return Ok(vacancies);
     }
 
+    [Authorize(Roles = "admin")]
     [HttpPost]
     public async Task<IActionResult> CreateVacancy([FromBody] Vacancy vacancy)
     {
@@ -31,6 +34,7 @@ public class VacanciesController : ControllerBase
         return Ok(vacancy);
     }
 
+    [Authorize(Roles = "users")]
     [HttpPost("{id}/apply")]
     public async Task<IActionResult> ApplyToVacancy(int id, [FromBody] Response response)
     {
